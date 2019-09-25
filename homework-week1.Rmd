@@ -1,0 +1,20 @@
+---
+title: "Week 1 Homework: My favorite bacteria"
+author: "Frederick Boehm"
+date: "9/23/2019"
+output: html_document
+---
+
+## Name 3 favorite bacteria
+
+1. *Thermophilus aquaticus* 
+1. *Wigglesworthia glossinidia*
+1. *Lactococcus lactis*
+
+
+## Explain why they are your favorites
+
+1. Taq polymerase is widely used in polymerase chain reactions.
+1. Mutualistically symbiotic with tsetse fly, *Glossina brevipalpis*. Tsetse flies are vectors for trypanosomes.
+1. One of several *Lactococcus* species whose fermentation abilities contribute to creme fraiche.
+
